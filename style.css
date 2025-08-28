@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9;
+}
+
+h1 {
+  color: #lightgreen;
+}
+
+#domOutput {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #e2f0d9;
+  border: 1px solid #a3c293;
+}
+
+button {
+  margin: 10px 5px 10px 0;
+  padding: 8px 15px;
+  cursor: pointer;
+}
